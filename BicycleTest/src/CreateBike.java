@@ -4,7 +4,7 @@ public class CreateBike {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Bicycle bike1 = new Bicycle(5,6,2);
-		Bicycle bike2 = new Bicycle(6,5,3);
+		//Bicycle bike2 = new Bicycle(6,5,3);
 		
 		Bicycle myBike = new Bicycle();
 		
